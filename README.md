@@ -13,4 +13,4 @@ A aplicação **Feira Rural** está alinhada com os Objetivos de Desenvolvimento
 
 Esse alinhamento torna o projeto uma ferramenta concreta de transformação social, com potencial para integrar políticas públicas, programas de financiamento social e estratégias de desenvolvimento sustentável em comunidades rurais e urbanas.  
 
-<img src="./src/assets/feira-rural-web.png" alt="Feira Rural - Fome Zero e Agricultura Sustentável" width="600"/>
+<img src="./src/assets/feira-rural-web.png" alt="Feira Rural - Fome Zero e Agricultura Sustentável" width="1000"/>
