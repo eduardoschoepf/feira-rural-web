@@ -12,7 +12,7 @@ export const mockProducts = [
     id: "1",
     name: "Tomate Orgânico",
     price: 8.50,
-    image: "https://images.unsplash.com/photo-1592841200221-68146e6c6314?w=400",
+    image: "https://images.unsplash.com/photo-1467020323552-36f7bf0e30e6?w=400",
     category: "Hortaliças",
     producer: {
       id: "prod1",
@@ -108,7 +108,7 @@ export const mockProducers = [
     description: "Produzimos hortaliças orgânicas há mais de 15 anos, sempre priorizando a qualidade e sustentabilidade.",
     phone: "(11) 98765-4321",
     email: "contato@sitioverde.com",
-    avatar: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=100",
+    avatar: "https://images.unsplash.com/photo-1467020323552-36f7bf0e30e6?w=100",
     products: ["1", "4"]
   },
   {
